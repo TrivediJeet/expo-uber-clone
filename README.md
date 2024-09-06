@@ -1,8 +1,4 @@
 <div align="center">
-  <br />
-      <img src="https://i.ibb.co/Bf04Hpd/Readme-thumbnail-from-JS-Mastery.png" alt="Project Banner">
-  <br />
-
   <div>
     <img src="https://img.shields.io/badge/-React_Native-black?style=for-the-badge&logoColor=white&logo=react&color=61DAFB" alt="reactnative" />
     <img src="https://img.shields.io/badge/-PostgreSQL-black?style=for-the-badge&logoColor=white&logo=postgresql&color=4169E1" alt="postgresql" />
@@ -12,21 +8,21 @@
 
 </div>
 
-## 📋 <a name="table">Table of Contents</a>
+## <a name="table">Table of Contents</a>
 
-1. 🤖 [Introduction](#introduction)
-2. ⚙️ [Tech Stack](#tech-stack)
-3. 🔋 [Features](#features)
-4. 🤸 [Quick Start](#quick-start)
-6. 🖇️ [Links](#links)
-7. 📦 [Assets](#assets)
+1. [Introduction](#introduction)
+2. [Tech Stack](#tech-stack)
+3. [Features](#features)
+4. [Quick Start](#quick-start)
+6. [Links](#links)
+7. [Assets](#assets)
 
-## <a name="introduction">🤖 Introduction</a>
+## <a name="introduction">Introduction</a>
 
 Built with React Native, Google Maps for rendering maps with directions, stripe for
 handling payments, serverless Postgres for managing databases, and styled with TailwindCSS.
 
-## <a name="tech-stack">⚙️ Tech Stack</a>
+## <a name="tech-stack">Tech Stack</a>
 
 - React Native
 - Expo
@@ -37,41 +33,41 @@ handling payments, serverless Postgres for managing databases, and styled with T
 - Clerk
 - Tailwind CSS
 
-## <a name="features">🔋 Features</a>
+## <a name="features">Features</a>
 
-👉 **Onboarding Flow**: Seamless user registration and setup process.
+- **Onboarding Flow**: Seamless user registration and setup process.
 
-👉 **Email Password Authentication with Verification**: Secure login with email verification.
+- **Email Password Authentication with Verification**: Secure login with email verification.
 
-👉 **oAuth Using Google**: Easy login using Google credentials.
+- **oAuth Using Google**: Easy login using Google credentials.
 
-👉 **Authorization**: Secure access control for different user roles.
+- **Authorization**: Secure access control for different user roles.
 
-👉 **Home Screen with Live Location & Google Map**: Real-time location tracking with markers on a map.
+- **Home Screen with Live Location & Google Map**: Real-time location tracking with markers on a map.
 
-👉 **Recent Rides**: View a list of recent rides at a glance.
+- **Recent Rides**: View a list of recent rides at a glance.
 
-👉 **Google Places Autocomplete**: Search any place on Earth with autocomplete suggestions.
+- **Google Places Autocomplete**: Search any place on Earth with autocomplete suggestions.
 
-👉 **Find Rides**: Search for rides by entering 'From' and 'To' locations.
+- **Find Rides**: Search for rides by entering 'From' and 'To' locations.
 
-👉 **Select Rides from Map**: Choose available cars near your location from the map.
+- **Select Rides from Map**: Choose available cars near your location from the map.
 
-👉 **Confirm Ride with Detailed Information**: View complete ride details, including time and fare price.
+- **Confirm Ride with Detailed Information**: View complete ride details, including time and fare price.
 
-👉 **Pay for Ride Using Stripe**: Make payments using multiple methods like cards and others.
+- **Pay for Ride Using Stripe**: Make payments using multiple methods like cards and others.
 
-👉 **Create Rides After Successful Payment**: Book a ride after confirming payment.
+- **Create Rides After Successful Payment**: Book a ride after confirming payment.
 
-👉 **Profile**: Manage account details in the profile screen.
+- **Profile**: Manage account details in the profile screen.
 
-👉 **History**: Review all rides booked so far.
+- **History**: Review all rides booked so far.
 
-👉 **Responsive on Android and iOS**: Optimized for both Android and iOS devices.
+- **Responsive on Android and iOS**: Optimized for both Android and iOS devices.
 
 and many more, including code architecture and reusability
 
-## <a name="quick-start">🤸 Quick Start</a>
+## <a name="quick-start">Quick Start</a>
 
 Follow these steps to set up the project locally on your machine.
 
@@ -132,7 +128,7 @@ npx expo start
 Download the [Expo Go](https://expo.dev/go) app and Scan the QR code on your respective device to view the project.
 
 
-## <a name="links">🔗 Links</a>
+## <a name="links">Links</a>
 
 You can find important links mentioned in the YouTube video below:
 
@@ -151,7 +147,7 @@ You can find important links mentioned in the YouTube video below:
   Stripe React Native SDK</a>
 - <a href="https://docs.stripe.com/payments/accept-a-payment-deferred" target="_blank">Stripe</a>
 
-## <a name="assets">📦 Assets</a>
+## <a name="assets">Assets</a>
 
 Assets used in the project can be
 found [here](https://drive.google.com/file/d/1ekttG-aCyy4g0SKqLSrEn_uHf2MJMRJ4/view?usp=sharing)
