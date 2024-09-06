@@ -130,16 +130,12 @@ Download the [Expo Go](https://expo.dev/go) app and Scan the QR code on your res
 
 ## <a name="links">Links</a>
 
-You can find important links mentioned in the YouTube video below:
-
 - <a href="https://www.nativewind.dev/quick-starts/expo" target="_blank">Expo NativeWind Setup</a>
 - <a href="https://www.nativewind.dev/v4/getting-started/typescript" target="_blank">TypeScript Support for
   NativeWind</a>
 - <a href="https://docs.expo.dev/guides/using-eslint/" target="_blank">Eslint and Prettier Setup</a>
-- <a href="https://jb.gg/JSMastery" target="_blank">Download FREE WebStorm</a>
 - <a href="https://neon.tech/" target="_blank">Serverless NeonDB</a>
 - <a href="https://go.clerk.com/DtiSBEI" target="_blank">Clerk Auth</a>
-- <a href="https://courses.jsmastery.pro/course/databases" target="_blank">Database Mastery Course</a>
 - <a href="https://clerk.com/docs/quickstarts/expo" target="_blank">Clerk Expo Quickstart</a>
 - <a href="https://clerk.com/docs/custom-flows/oauth-connections" target="_blank">Clerk Expo OAuth</a>
 - <a href="https://www.geoapify.com/" target="_blank">Geoapify Map</a>
